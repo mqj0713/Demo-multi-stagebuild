@@ -1,0 +1,12 @@
+{
+  "name": "react-clock-demo",
+  "version": "1.0.0",
+  "description": "A simple React web application with dynamic clock display",
+  "scripts": {
+    "start": "cd client && npm start",
+    "install": "cd client && npm install",
+    "build": "cd client && npm run build"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
